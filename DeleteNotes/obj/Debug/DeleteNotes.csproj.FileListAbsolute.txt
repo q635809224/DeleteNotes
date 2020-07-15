@@ -1,0 +1,6 @@
+D:\work\初码\工具人\2020\批量删除注释\源代码\DeleteNotes\DeleteNotes\bin\Debug\DeleteNotes.exe.config
+D:\work\初码\工具人\2020\批量删除注释\源代码\DeleteNotes\DeleteNotes\bin\Debug\DeleteNotes.exe
+D:\work\初码\工具人\2020\批量删除注释\源代码\DeleteNotes\DeleteNotes\bin\Debug\DeleteNotes.pdb
+D:\work\初码\工具人\2020\批量删除注释\源代码\DeleteNotes\DeleteNotes\obj\Debug\DeleteNotes.csprojAssemblyReference.cache
+D:\work\初码\工具人\2020\批量删除注释\源代码\DeleteNotes\DeleteNotes\obj\Debug\DeleteNotes.exe
+D:\work\初码\工具人\2020\批量删除注释\源代码\DeleteNotes\DeleteNotes\obj\Debug\DeleteNotes.pdb
